@@ -1,0 +1,23 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwarang98/typeChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwarang98/typeChain/issues"
+  },
+  "homepage": "https://github.com/hwarang98/typeChain#readme",
+  "dependencies": {
+    "gitignore": "^0.7.0",
+    "typescript": "^4.7.4"
+  }
+}
